@@ -5,6 +5,10 @@ body {
     padding: 0;
 }
 
+audio {
+    display: none;
+}
+
 header {
     background-color: #FBA1B7;
     padding: 5px;
